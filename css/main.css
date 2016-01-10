@@ -1,0 +1,74 @@
+/* ==========================================================================
+   Author: Irvin David Ortiz Vega
+   ========================================================================== */
+body{
+	color: white;
+}
+
+.app-header{
+	background-color: #009688;
+	height: 80px;
+	text-align: center;
+}
+
+.app-base{
+	text-align: center;
+	padding: 20px;
+}
+
+.app-nav{
+	background-color: #e91e63;
+	height: 1314px;
+}
+
+.app-main{
+	background-color: #03a9f4;
+}
+
+.app-article{
+	background-color: white;
+	color: black;
+	text-align: justify;
+	padding: 20px;
+	margin-top: 25px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.hed-article{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.app-time{
+	font-weight: bold;
+}
+
+.app-comentario{
+	width: 80%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;  
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn-enviar{
+	border: 1px solid #009688;
+	background-color: white;
+	color: black;
+}
+
+.btn-enviar:hover{
+	background-color: #009688;
+	color: white;
+	
+}
+
+.app-footer{
+	background-color: #ff5722;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
